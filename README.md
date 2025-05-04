@@ -141,7 +141,8 @@ ${VITE_API_BASE_URL}/uploads/profile-pics/filename.jpg
 ---
 ### 🔹 Students/Dashboard
 
-![Navigation View](./images/Screenshot%202025-05-04%20110725.png)
+![Navigation View](./images/Screenshot%202025-05-04%20110800.png)
+![](./images/Screenshot%202025-05-04%20112914.png)
 
 ---
 
@@ -164,6 +165,3 @@ ${VITE_API_BASE_URL}/uploads/profile-pics/filename.jpg
 ![Modal View](./images/Screenshot%202025-05-04%20112803.png)
 
 ---
-### 🔹 Final Screen – Summary or Overview
-
-![Final Summary Screen](./images/Screenshot%202025-05-04%20112914.png)
