@@ -44,7 +44,6 @@ Create a `.env` file in the root of the `backend/` directory:
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/Examtutor
 ```
-
 ### 4. Start the development server
 
 ```bash
