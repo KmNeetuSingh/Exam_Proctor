@@ -131,41 +131,39 @@ ${VITE_API_BASE_URL}/uploads/profile-pics/filename.jpg
 ### 🔹 Home Screen – Initial View
 
 ![Home Screen](./images/Screenshot%202025-05-04%20110705.png)
+ ![Dark](./images/Screenshot%202025-05-04%20110725.png)
+
+
+### 🔹Role-based... Login/Register...
+![login](./images/Screenshot%202025-05-04%20110740.png)
+
 
 ---
-
-### 🔹 Navigation/Content Layout
+### 🔹 Students/Dashboard
 
 ![Navigation View](./images/Screenshot%202025-05-04%20110725.png)
 
 ---
 
-### 🔹 Table/List View Comparison
+### 🔹 Id Verication/Mentor Dashboard
 
-![List/Table View 1](./images/Screenshot%202025-05-04%20110740.png)
+![List/Table View 1](./images/Screenshot%202025-05-04%20112642.png)
 
-![List/Table View 2](./images/Screenshot%202025-05-04%20110800.png)
+![List/Table View 2](./images/Screenshot%202025-05-04%20112741.png)
 
 ---
 
-### 🔹 Settings or Details View
+### 🔹 Create Exam By Mentor
 
-![Details View](./images/Screenshot%202025-05-04%20110850.png)
+![Details View](./images/Screenshot%202025-05-04%20112830.png)
 
 ---
 
 ### 🔹 Pop-up / Modal / Notification State
 
-![Modal View](./images/Screenshot%202025-05-04%20111951.png)
+![Modal View](./images/Screenshot%202025-05-04%20112803.png)
 
 ---
-
-### 🔹 Dark Mode or Alternate Theme
-
-![Theme or Alternate UI](./images/Screenshot%202025-05-04%20112642.png)
-
----
-
 ### 🔹 Final Screen – Summary or Overview
 
-![Final Summary Screen](./images/Screenshot%202025-05-04%20112830.png)
+![Final Summary Screen](./images/Screenshot%202025-05-04%20112914.png)
