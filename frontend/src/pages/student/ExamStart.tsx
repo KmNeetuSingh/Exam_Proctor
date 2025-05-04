@@ -321,7 +321,7 @@ const ExamStart = () => {
   // A. ID Verification Flow (if user.isIdVerified is false)
   if (!user.isIdVerified) {
     return (
-      <div className="container mx-auto max-w-4xl py-8 animate-fade-in">
+      <div className="container mx-auto max-w-5xl py-8 animate-fade-in">
         <Card className="shadow-lg">
           <CardHeader>
             <CardTitle className="text-2xl">Initial ID Verification</CardTitle>
@@ -346,14 +346,14 @@ const ExamStart = () => {
               </div>
               
               {/* Steps progress - Simplified to 2 steps */}
-              <div className="flex justify-between text-sm">
+              <div className="flex justify-between text-sm w-full max-w-full overflow-x-auto"> 
                 <div className={`flex flex-col items-center ${step >= 1 ? 'text-exam-primary font-medium' : 'text-gray-400'}`}>
                   <div className={`w-8 h-8 rounded-full flex items-center justify-center border ${step >= 1 ? 'bg-exam-primary text-white border-exam-primary' : 'border-gray-200'}`}>
                     1
                   </div>
                   <span className="mt-1">Webcam Check</span>
                 </div>
-                <Separator className="flex-grow my-4 mx-2" />
+                <Separator className="flex-grow my-4 mx-1" />
                 <div className={`flex flex-col items-center ${step >= 2 ? 'text-exam-primary font-medium' : 'text-gray-400'}`}>
                   <div className={`w-8 h-8 rounded-full flex items-center justify-center border ${step >= 2 ? 'bg-exam-primary text-white border-exam-primary' : 'border-gray-200'}`}>
                     2
