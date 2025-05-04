@@ -143,6 +143,7 @@ ${VITE_API_BASE_URL}/uploads/profile-pics/filename.jpg
 
 ![Navigation View](./images/Screenshot%202025-05-04%20110800.png)
 ![](./images/Screenshot%202025-05-04%20112914.png)
+![](./images/image.png)
 
 ---
 
