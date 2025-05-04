@@ -31,7 +31,7 @@ const MONGO_URI = process.env.MONGO_URI;
 connectDB();
 
 app.get('/', (req, res) => {
-  res.send('Exam Guardian Backend API');
+  res.send('Exam Guardian Backend API Working Fine!');
 });
 
 app.use('/api/auth', authRoutes);
