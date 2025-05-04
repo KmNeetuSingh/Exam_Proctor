@@ -131,7 +131,7 @@ ${VITE_API_BASE_URL}/uploads/profile-pics/filename.jpg
 
 ### 🔹 Home Screen – Initial View
 
-![Home Screen](./screenshots/9bd7358b-a2c0-4786-9c63-72e79e2f2ae2.png)
+![Home Screen](c:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-05-04 112914.png)
 
 ---
 
